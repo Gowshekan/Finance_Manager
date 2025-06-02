@@ -34,7 +34,7 @@ Finance Manager is a comprehensive personal finance application built with Djang
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/finance-manager-django.git
+   https://github.com/Gowshekan/Finance_Manager.git
    cd finance-manager-django
    ```
 
